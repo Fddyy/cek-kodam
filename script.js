@@ -32,7 +32,7 @@ function cekKhodam()
     
       let hasilKodam = kodam[randomKodam]
 
-      if(nama =='Ferdy' || 'ferdy' || 'FERDY'){
+      if(nama.toLowerCase() === 'ferdy'){
         hasilKodam = 'Naga Emas'
       }
     
