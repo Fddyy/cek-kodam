@@ -24,7 +24,6 @@ function cekKhodam()
         'Manu kampong',
         'Manu potong',
         'Manu ras',
-        'Naga emas',
         'polisi bulan sabit'
       ]
     
